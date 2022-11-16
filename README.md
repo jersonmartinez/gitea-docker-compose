@@ -110,3 +110,13 @@ Esta es la forma en que se observa un repositorio en Gitea; y es fácil de ver q
 ![imagen](https://user-images.githubusercontent.com/7296281/202074429-e53b5e0e-65ec-4e0a-a338-4b0345652a4f.png)
 
 Con esto ya estás listo para trabajar en un entorno local, para instalar tu propio servidor de Git con interfaz gráfica; trabajar en equipo y poder llevar este proyecto a la nube, a tu propia infraestructura. 
+
+```bash
+$ docker-compose down --volumes
+[+] Running 3/3
+ - Container gitea                      Removed                                                                                               1.4s
+ - Container gitea-docker-compose-db-1  Removed                                                                                               1.5s
+ - Network gitea-docker-compose_gitea   Removed
+```
+
+Esta última instrucción termina con los contenedores que habían sido levantados.
