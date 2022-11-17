@@ -2,6 +2,8 @@
 
 Este documento está basado en este artículo: [Monta tu propio servidor de Git con Gitea y Docker](https://www.crashell.com/estudio/monta_tu_propio_servidor_de_git_con_gitea_y_docker/)
 
+[![Monta tu propio servidor de Git con Gitea y Docker](https://img.youtube.com/vi/bTaRIzhgDIk/maxresdefault.jpg)](https://youtu.be/bTaRIzhgDIk "Monta tu propio servidor de Git con Gitea y Docker")
+
 ## ¿Qué es Gitea?
 
 Es un servidor de Git autohospedado, rápido y fácil de usar. Similar a la interfaz gráfica de GitHub y con muchas funcionalidades que comparten con BitBucket y GitLab. Este se encuentra escrito en Go. Es una aplicación ligera y se puede instalar en sistemas de baja potencia, así que, si estás buscando una alternativa a alguno de los sistemas de gestión de Git en la nube antes mencionados, Gitea es una gran opción.
